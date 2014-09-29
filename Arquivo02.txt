@@ -2,4 +2,6 @@ Este é um segundo arquivo criado dentro de uma pasta
 de projeto git.
 Este é o arquivo 02.
 
-Alterações = 0.
+Hadouken!
+
+Alterações = 1.

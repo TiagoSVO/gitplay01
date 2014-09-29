@@ -1,4 +1,6 @@
 Este é um arquivo pra brincar com Git.
 Este é o arquivo 01
 
-Alterações = 0.
+Adicionei esta linha!
+
+Alterações = 1.
