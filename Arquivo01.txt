@@ -1,0 +1,4 @@
+Este é um arquivo pra brincar com Git.
+Este é o arquivo 01
+
+Alterações = 0.
